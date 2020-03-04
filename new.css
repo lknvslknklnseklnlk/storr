@@ -1,0 +1,61 @@
+
+body 
+{
+	margin:0;
+	padding:0;	
+}
+.text
+{
+	position:absolute;
+	left:520px;
+	top:1135px;
+    font-size:25px;
+	color:white;
+	font-family:Almarai;
+}
+.text5 p
+{
+	position:absolute;
+	top:-35px;
+    font-size:60px;
+	color:#00c5ff;
+	left:400px;
+	font-family:Biryani;
+}
+.text2
+{
+	position:absolute;
+	left:640px;
+	top:1175px;
+    font-size:25px;
+	color:white;
+	font-family:Biryani;
+}
+.imeage
+{
+	position:absolute;
+	left:560px;
+	top:1180px;
+}
+.face
+{
+	position:absolute;
+	top:1175px;
+	left:528px;
+}
+.hh p 
+{
+	position:absolute;
+	left:480px;
+	top:100px;
+}
+.text3
+{
+	position:absolute;
+	font-size:30px;
+	left:600px;
+	top:500px;
+	color:white;
+	border:5px;
+	
+}
